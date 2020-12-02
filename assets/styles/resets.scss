@@ -1,0 +1,35 @@
+a,
+a.navbar-item,
+.navbar-item,
+.navbar-item.is-active {
+  text-decoration: none;
+  color: $text-secondary;
+
+  &:link {
+    color: $text-secondary;
+  }
+
+  &:visited {
+    color: $text-secondary;
+  }
+
+  &:active {
+    color: $text-secondary-dark;
+  }
+
+  &:hover {
+    color: $text-secondary-dark;
+  }
+}
+
+html,
+body,
+#__nuxt,
+#__layout,
+.default,
+.home,
+iframe {
+  height: 100%;
+  margin: 0 auto;
+  word-spacing: 1px;
+}

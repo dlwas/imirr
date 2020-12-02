@@ -1,0 +1,89 @@
+// set font
+@mixin set-font($fontName) {
+  // example
+  // @include set-font('roboto')
+
+  @if ($fontName == 'anton') {
+    font-family: 'Anton', sans-serif;
+  } @else if($fontName == 'roboto') {
+    font-family: 'Roboto', sans-serif;
+  }
+}
+
+// set query
+@mixin set-query($queryName) {
+  // example
+  // @include set-query($large) {
+  //   font-size: 10rem;
+  // }
+
+  @media (min-width: $queryName) {
+    @content;
+  }
+}
+
+// set size
+@mixin set-size(
+  $widthOnly: false,
+  $res-small: null,
+  $res-medium: null,
+  $res-large: null,
+  $res-extra: null
+) {
+  @media (min-width: $small) {
+    @if $widthOnly {
+      width: $res-small;
+    } @else {
+      width: $res-small;
+      height: $res-small / 1.78;
+    }
+  }
+  @media (min-width: $medium) {
+    @if $widthOnly {
+      width: $res-medium;
+    } @else {
+      width: $res-medium;
+      height: $res-medium / 1.78;
+    }
+  }
+  @media (min-width: $large) {
+    @if $widthOnly {
+      width: $res-large;
+    } @else {
+      width: $res-large;
+      height: $res-large / 1.78;
+    }
+  }
+  @media (min-width: $extra) {
+    @if $widthOnly {
+      width: $res-extra;
+    } @else {
+      width: $res-extra;
+      height: $res-extra / 1.78;
+    }
+  }
+}
+
+//set font size
+@mixin set-font-size(
+  $res-small: null,
+  $res-medium: null,
+  $res-large: null,
+  $res-extra: null
+) {
+  @media (min-width: $small) {
+    font-size: $res-small;
+  }
+
+  @media (min-width: $medium) {
+    font-size: $res-medium;
+  }
+
+  @media (min-width: $large) {
+    font-size: $res-large;
+  }
+
+  @media (min-width: $extra) {
+    font-size: $res-extra;
+  }
+}

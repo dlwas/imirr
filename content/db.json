@@ -1,0 +1,206 @@
+{
+  "giveaway": [
+    {
+      "name": "Tec-9",
+      "skin": "Decimator",
+      "url": "#",
+      "urlImage": "https://static.wikia.nocookie.net/cswikia/images/9/98/Weapon_tec9_gs_tec9_decimator_light_large.f4390b25719d23ca40161e399c3a4b9aae702638.png"
+    },
+    {
+      "name": "AWP",
+      "skin": "Containment Breach",
+      "url": "#",
+      "urlImage": "https://static.wikia.nocookie.net/cswikia/images/1/11/Weapon_awp_cu_awp_virus_light_large.00307f818d425d94cb8e4eeda1e27699f713fb45.png"
+    }
+  ],
+  "redirects": {
+    "discord": {
+      "name": "discord",
+      "url": "https://www.discord.com/invite/imirr"
+    },
+    "facebook": {
+      "name": "facebook",
+      "url": "https://www.facebook.com/imirryt"
+    },
+    "instagram": {
+      "name": "instagram",
+      "url": "https://www.instagram.com/imirrowy"
+    },
+    "steam": {
+      "name": "steam",
+      "url": "https://www.steamcommunity.com/groups/imirrgaming"
+    }
+  },
+  "social": [
+    {
+      "fullUrl": "discord.gg/imirr",
+      "name": "discord",
+      "show": true
+    },
+    {
+      "fullUrl": "facebook.com/ImirrYT",
+      "name": "facebook",
+      "show": true
+    },
+    {
+      "fullUrl": "instagram.com",
+      "name": "instagram",
+      "show": false
+    }
+  ],
+  "videos": {
+    "bambik": [
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "Czy da się być PRO na PADZIE w CS:GO?",
+        "videoId": "k-woHEvjJ6Y"
+      },
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "⭐NOWE TRYBY W CS 1.6. NA TELEFON! 😎",
+        "videoId": "3kCYCt7dYfo"
+      }
+    ],
+    "imirr": [
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "Czy da się być PRO na PADZIE w CS:GO?",
+        "videoId": "k-woHEvjJ6Y"
+      },
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "⭐NOWE TRYBY W CS 1.6. NA TELEFON! 😎",
+        "videoId": "3kCYCt7dYfo"
+      },
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/BJv8Va0mNJE/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/BJv8Va0mNJE/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/BJv8Va0mNJE/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "⭐ CS:GO ale jak cheater to skrzyneczka 😎",
+        "videoId": "BJv8Va0mNJE"
+      }
+    ],
+    "rimi": [
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/k-woHEvjJ6Y/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "Czy da się być PRO na PADZIE w CS:GO?",
+        "videoId": "k-woHEvjJ6Y"
+      },
+      {
+        "thumbnails": {
+          "default": {
+            "height": 90,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/default.jpg",
+            "width": 120
+          },
+          "high": {
+            "height": 360,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/hqdefault.jpg",
+            "width": 480
+          },
+          "medium": {
+            "height": 180,
+            "url": "https://i.ytimg.com/vi/3kCYCt7dYfo/mqdefault.jpg",
+            "width": 320
+          }
+        },
+        "title": "⭐NOWE TRYBY W CS 1.6. NA TELEFON! 😎",
+        "videoId": "3kCYCt7dYfo"
+      }
+    ]
+  }
+}
