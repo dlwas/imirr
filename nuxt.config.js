@@ -32,6 +32,7 @@ export default {
     },
   },
   css: [],
+  target: 'static',
   styleResources: {
     scss: ['./assets/styles/main.scss'],
   },
