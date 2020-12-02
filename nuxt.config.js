@@ -53,13 +53,13 @@ export default {
     ['@nuxt/content', {}],
     ['@nuxtjs/axios', {}],
     ['@nuxtjs/pwa', {}],
-    [
-      '@nuxtjs/sitemap',
-      {
-        hostname: process.env.baseUrl,
-        gzip: true,
-      },
-    ],
+    // [
+    //   '@nuxtjs/sitemap',
+    //   {
+    //     hostname: process.env.baseUrl,
+    //     gzip: true,
+    //   },
+    // ],
     ['nuxt-imagemin', {}],
     [
       'nuxt-webfontloader',
